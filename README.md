@@ -27,5 +27,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/wy1348666498"><img src="https://img.shields.io/badge/GitHub-wy1348666498-blue?logo=github" /></a>
+<a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-wy1348666498" /></a>
 <img src="https://img.shields.io/badge/QQ-1348666498-green?logo=tencentqq" />
+ <img src="https://komarev.com/ghpvc/?username=wy1348666498&label=Views&color=orange&style=flat" alt="访问量统计" />
 </p>
